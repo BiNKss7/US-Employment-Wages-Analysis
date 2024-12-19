@@ -61,7 +61,6 @@ Insights and Findings
 This dashboard provides a comprehensive look into wage trends, employment distribution, and wage inequality across the United States. It enables stakeholders to explore key metrics and identify patterns across various industries and regions.
 
 ## How to Use
-Download the Excel file from this repository.
-Open it in Microsoft Excel.
+Open the Microsoft Excel link from the File Link.
 Use the slicers and interact with the dashboard to analyze data and extract insights.
 Feel free to explore, contribute, or provide feedback to enhance the project!
